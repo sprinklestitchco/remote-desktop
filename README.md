@@ -1,5 +1,7 @@
 <p align="center">
 <img width="980" height="560" alt="image" src="https://github.com/user-attachments/assets/56b97719-19ef-44f7-933a-3c95edd3ec9b" />
+<img width="542" height="303" alt="image" src="https://github.com/user-attachments/assets/e5b0b716-b0f6-4b05-934d-defd612815e3" />
+
 </p>
 
 <h1>Remote Desktop into your virtual machine in Azure</h1>
