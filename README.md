@@ -4,7 +4,7 @@
 
 <h1>Remote Desktop into your virtual machine in Azure</h1>
 This project explains how to connect to a virtual machine (VM) in Microsoft Azure using Remote
-Desktop using a Windows PC. Assuming you have already created your virtual machine in Azure.
+Desktop using a Windows PC. Assuming you have already created your virtual machine in Azure. The Remote Desktop application allows you to remotely access and control a computer from a different location using an internet connection. 
 <br />
 
 <h2>Environments and Technologies Used</h2>
@@ -39,12 +39,37 @@ Find the virtual machine you previously created. You can click on the 3 lines on
 <img width="1713" height="645" alt="image" src="https://github.com/user-attachments/assets/f01c4bfa-03f7-4d21-aeab-17296249d78e" />
 
 </p>
-<h2>Click on the Virtual Machine you want to remote desktop ito</h2>
-
+<h2>Get Virtual Machine Public IP Address</h2>
 <p>
-<img width="1732" height="908" alt="image" src="https://github.com/user-attachments/assets/47bab1ad-8718-490d-884f-bd089642328d" />
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Copy the public IP address in Azure that you want to remotely desktop into.
 </p>
+<p>
+<img width="1902" height="651" alt="image" src="https://github.com/user-attachments/assets/fced0ecc-63e7-44cf-83a7-75ee1f6b6fab" />
+
+<h2>Find Remote Desktop Application</h2>
+<p>
+Find the Remote Desktop Application or download that application if you do not have it. Then, put the same public IP address of the virtual machine we copied from Azure into the Remote Desktop application, and click Connect to log in.
+</p>
+<p>
+<img width="1575" height="637" alt="image" src="https://github.com/user-attachments/assets/7732e7e2-4522-48dc-9a40-c134bf8cd488" />
+
+<h2>Login to Virtual Machine</h2>
+<p>
+Now use the same username and password you created when setting up your virtual machine in Azure and click okay. Accept any certificate warnings that may appear.  
+</p>
+<p>
+<img width="580" height="721" alt="image" src="https://github.com/user-attachments/assets/2b52625a-69f1-41b9-8b89-683f535721db" />
+
+<h2>Successfully Login</h2>
+<p>
+You are now connected to the Virtual Machine Windows desktop. You are controlling another computer from your own computer. Congratulations you did it!
+</p>
+<p>
+<img width="1262" height="662" alt="image" src="https://github.com/user-attachments/assets/0d2ae18e-8330-4835-bc17-f0d80e51c3df" />
+<img width="1196" height="703" alt="image" src="https://github.com/user-attachments/assets/6c82f154-9428-4593-944a-6e22f6cbd1b8" />
+
+
+
+
+
 <br />
