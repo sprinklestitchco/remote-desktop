@@ -12,7 +12,7 @@ Desktop using a Windows PC. Assuming you have already created your virtual machi
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines)
-- Remote Desktop
+- Remote Desktop App
 - Windows PC
 
 <h2>Operating Systems Used </h2>
