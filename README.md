@@ -1,9 +1,11 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img width="980" height="560" alt="image" src="https://github.com/user-attachments/assets/56b97719-19ef-44f7-933a-3c95edd3ec9b" />
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Remote Desktop into your virtual machine in Azure</h1>
+This project explains how to connect to a virtual machine (VM) in Microsoft Azure using Remote
+Desktop using a Windows PC.
+<br />
 
 
 <h2>Video Demonstration</h2>
