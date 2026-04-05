@@ -7,17 +7,11 @@ This project explains how to connect to a virtual machine (VM) in Microsoft Azur
 Desktop using a Windows PC.
 <br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Windows PC
 
 <h2>Operating Systems Used </h2>
 
