@@ -29,10 +29,14 @@ Go to https://portal.azure.com and sign in with your account. Your home page sho
 
 <h2>Find your Virtual Machine Created</h2>
 <p>
-Find the virtual machine you previously created. You can click on the 3 lines on the left side of the homepage and click on Virtual Machines or you can also just type virtual machines in the search toolbar. Make sure the virtual machine you want to remot desktop into has a status of running and not stopped in azure.
+Find the virtual machine you previously created. You can click on the 3 lines on the left side of the homepage and click on Virtual Machines or you can also just type virtual machines in the search toolbar. Make sure the virtual machine you want to remotely desktop into has a status of running and not stopped in Azure.
 </p>
 <p>
 <img width="1700" height="862" alt="image" src="https://github.com/user-attachments/assets/5267c33e-5487-40d8-92f5-8f05ab927c40" />
+  
+<h2>Make sure the virtual machine you want to remotely desktop into has a status of running and not stopped in Azure.  </h2>
+
+<img width="1713" height="645" alt="image" src="https://github.com/user-attachments/assets/f01c4bfa-03f7-4d21-aeab-17296249d78e" />
 
 </p>
 <h2>Click on the Virtual Machine you want to remote desktop ito</h2>
