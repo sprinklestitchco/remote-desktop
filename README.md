@@ -19,19 +19,21 @@ Desktop using a Windows PC. Assuming you have already created your virtual machi
   
 <h2>Login to Azure Portal</h2>
 <p>
+Go to https://portal.azure.com and sign in with your account. Your home page should look something like this when you login to Azure portal. 
+
+</p>
+<p>
 <img width="1708" height="923" alt="image" src="https://github.com/user-attachments/assets/946036be-8ade-47e4-8e2a-26e692b9c71f" />
 
 </p>
-<p>
-Your home page should look something like this when you login to Azure portal.
-</p>
-<br />
 
+<h2>Find your Virtual Machine Created</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Find the virtual machine you previously created. You can click on the 3 lines on the left side of the homepage and click on Virtual Machines or you can also just type virtual machines in the search toolbar.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1700" height="862" alt="image" src="https://github.com/user-attachments/assets/5267c33e-5487-40d8-92f5-8f05ab927c40" />
+
 </p>
 <br />
 
