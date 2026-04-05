@@ -4,7 +4,7 @@
 
 <h1>Remote Desktop into your virtual machine in Azure</h1>
 This project explains how to connect to a virtual machine (VM) in Microsoft Azure using Remote
-Desktop using a Windows PC.
+Desktop using a Windows PC. Assuming you have already created your virtual machine in Azure.
 <br />
 
 <h2>Environments and Technologies Used</h2>
@@ -16,16 +16,8 @@ Desktop using a Windows PC.
 <h2>Operating Systems Used </h2>
 
 - Windows 11
-
-<h2>High-Level Deployment and Configuration Steps</h2>
-
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-
-<h2>Deployment and Configuration Steps</h2>
-
+  
+<h2>Login to Azure Portal</h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>https://github.com/sprinklestitchco/remote-desktop/blob/main/README.md
 </p>
